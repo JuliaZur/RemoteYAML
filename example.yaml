@@ -1,0 +1,17 @@
+- Salon :
+  salon.gora : Oświetlenie górne
+  salon.lampa : Lampa nad kanapą
+  salon.tv : Zasilanie telewizora
+- Kuchnia :
+  kuchnia.gora : Oświetlenie górne
+  kuchnia.blat : Oświetlenie blatu
+  kuchnia.stol : Oświetlenie stołu
+  kuchnia.w1 : Wentylator 1
+  kuchnia.w2 : Wentylator 2
+  kuchnia.radio : Zasilanie radia
+  kuchnia.g1 : Gniazdo 1
+  kuchnia.g2 : Gniazdo 2
+- Garaż :
+  garaz.gora : Oświetlenie górne
+  garaz.stol : Oświetlenie stołu
+  garaz.grzejnik : Grzejnik olejowy
